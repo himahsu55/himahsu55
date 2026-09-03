@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                    HIMESH SHARMA                          -->
+<!--                    Himesh Sharma                          -->
 <!-- ========================================================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=HIMESH%20SHARMA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
