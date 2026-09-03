@@ -1,667 +1,535 @@
-<!-- ========================================================= -->
-
-<!--                    HIMESH SHARMA                          -->
-
-<!--                                      -->
-
-<!-- ========================================================= -->
-
-<!-- ========================= HEADER ======================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=HIMESH%20SHARMA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20TECH%20ENTHUSIAST&descAlignY=58&descSize=18" />
+````html
+<!-- ========================= PROFILE HEADER ========================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=Hey%2C+I'm+Himesh+Sharma+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Software+Engineer+in+the+Making+%F0%9F%9A%80;I+Build+%7C+Break+%7C+Learn+%7C+Rebuild+%E2%9A%A1;Turning+Ideas+Into+Real+Products+%F0%9F%94%A5;Always+Learning.+Always+Building." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=80&duration=3500&pause=1000&color=00F7FF&lines=Hi+There!+👋;I'm+Himesh+Sharma!;Full+Stack+Developer+💻;Software+Developer+🚀;Building+Ideas+Into+Reality+🔥" />
+
+<h3>💻 Full-Stack Developer • 🚀 Product Builder • 🇮🇳 India</h3>
 
 <br/>
 
-<a href="https://github.com/himahsu55">
+<img src="https://komarev.com/ghpvc/?username=himahsu55&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=himahsu55&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/himahsu55?label=Followers&style=for-the-badge&color=181717" />
 
-</a>
-
-<a href="https://github.com/himahsu55?tab=followers">
-
-<img src="https://img.shields.io/github/followers/himahsu55?label=FOLLOWERS&style=for-the-badge&color=181717" />
-
-</a>
-
-<a href="https://github.com/himahsu55?tab=repositories">
-
-<img src="https://img.shields.io/github/stars/himahsu55?label=TOTAL%20STARS&style=for-the-badge&color=FFD700" />
-
-</a>
+<img src="https://img.shields.io/github/stars/himahsu55?label=Stars&style=for-the-badge&color=FFD700" />
 
 </div>
 
 <br/>
 
----
-
-# 🧑‍💻 WHO IS HIMESH?
+<!-- ========================= ABOUT ME ========================= -->
 
 <div align="center">
 
-# 👋 Hi, I'm Himesh Sharma
-
-### 💻 Full-Stack Developer from India 🇮🇳
-
-### 🚀 I build digital products from **idea → design → code → deployment**
+## 👨‍💻 About Me
 
 </div>
 
-<br/>
-
-<table>
+<table align="center">
 <tr>
 
 <td width="50%">
 
-### 🔥 Developer Profile
+🔭 Currently working on **a Marketplace**
 
-```text
-👨‍💻 Role
-Full-Stack Developer
+🌱 Currently learning **Docker, Supabase & AWS**
 
-🇮🇳 Location
-India
+💻 Interested in **Full-Stack Development**
 
-🚀 Passion
-Building Products
+🚀 Building **real-world products**
 
-🧠 Mindset
-Always Learning
+🎨 Love **modern UI/UX**
 
-🎯 Focus
-Real-World Applications
-
-⚡ Style
-Build • Ship • Improve
-```
+🧠 Always learning something new
 
 </td>
 
 <td width="50%">
 
-### 🧩 Currently
+⚡ **Developer Mindset**
 
 ```text
-🔭 Building
-Marketplace Platform
+Think → Design → Build
+        ↓
+      Test
+        ↓
+      Ship
+        ↓
+     Improve
+        ↓
+      Repeat
+````
 
-🌱 Learning
-Docker
-Supabase
-AWS
-
-💻 Working With
-React
-Node.js
-Firebase
-
-🎨 Interested In
-UI/UX
-Product Development
-Cloud
-Scalable Systems
-```
+🎯 **Goal:** Build useful products that people love.
 
 </td>
 
 </tr>
 </table>
 
----
+<br/>
 
-# ⚡ MY DEVELOPER IDENTITY
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/💻%20CODE-BUILDING-00F7FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🚀%20PRODUCTS-SHIPPING-7F00FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🧠%20LEARNING-ALWAYS-FF6B00?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/⚡%20PROBLEM%20SOLVING-ON-00C853?style=for-the-badge" />
-
-</div>
-
----
-
-# 🏗️ MY DEVELOPMENT PIPELINE
-
-<div align="center">
-
-```text
-                  💡 IDEA
-                    │
-                    ▼
-              🧠 RESEARCH
-                    │
-                    ▼
-               🎨 DESIGN
-                    │
-                    ▼
-             ⚛️ FRONTEND
-                    │
-                    ▼
-              ⚙️ BACKEND
-                    │
-                    ▼
-              🗄️ DATABASE
-                    │
-                    ▼
-              🔐 SECURITY
-                    │
-                    ▼
-              🧪 TESTING
-                    │
-                    ▼
-               🐳 DOCKER
-                    │
-                    ▼
-                ☁️ CLOUD
-                    │
-                    ▼
-               🚀 DEPLOY
-                    │
-                    ▼
-              📈 IMPROVE
-```
-
-</div>
-
----
-
-# 🚀 WHAT I'M BUILDING
-
-<div align="center">
-
-# 🛒 Marketplace Platform
-
-### A modern marketplace focused on a smooth, scalable and reliable experience.
-
-<img src="https://img.shields.io/badge/PROJECT-MARKETPLACE-00F7FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge" />
-
-</div>
-
-### 🧩 Product Vision
-
-```text
-👤 Users
-   ↓
-🔐 Authentication
-   ↓
-🛍️ Discover Products
-   ↓
-🔎 Search & Filters
-   ↓
-🛒 Add To Cart
-   ↓
-💳 Checkout
-   ↓
-📦 Order
-   ↓
-⭐ Review
-```
-
-### 🔥 Planned Capabilities
-
-* 👤 User Authentication
-* 🛍️ Product Management
-* 🔎 Search & Advanced Filtering
-* 🛒 Shopping Cart
-* ❤️ Wishlist
-* 📦 Order Management
-* 💳 Payment Integration
-* ⭐ Ratings & Reviews
-* 🔔 Notifications
-* 📊 Admin Dashboard
-* 🔐 Secure APIs
-* ☁️ Cloud Infrastructure
-* 📈 Analytics
-
----
-
-# 🧠 TECHNOLOGY UNIVERSE
-
-<div align="center">
-
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c&perline=8" />
-
-<br/><br/>
-
-## ⚛️ Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui&perline=8" />
-
-<br/><br/>
-
-## ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&perline=8" />
-
-<br/><br/>
-
-## 📱 Mobile
-
-<img src="https://skillicons.dev/icons?i=react&perline=8" />
-
-<br/><br/>
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&perline=8" />
-
-<br/><br/>
-
-## ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github&perline=8" />
-
-<br/><br/>
-
-## 🎨 Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,figma&perline=8" />
-
-</div>
-
----
-
-# 🧰 FULL SKILL MATRIX
-
-| Area              | Technologies                                   |
-| :---------------- | :--------------------------------------------- |
-| 🎨 UI/UX          | Figma • Material UI • Bootstrap • Tailwind CSS |
-| ⚛️ Frontend       | React • Next.js • HTML • CSS                   |
-| 🧠 Languages      | JavaScript • TypeScript • Python • Java • C    |
-| ⚙️ Backend        | Node.js • Express • Flask                      |
-| 🗄️ Database      | MongoDB • MySQL • Firebase • Supabase          |
-| 🔐 Authentication | Firebase Auth • API Authentication             |
-| 🌐 APIs           | REST APIs • Firebase APIs                      |
-| ☁️ Cloud          | AWS • Firebase • Supabase                      |
-| 🐳 DevOps         | Docker • Git • GitHub                          |
-| 📱 Mobile         | React / React Native                           |
-| 🛠️ IDE           | VS Code                                        |
-| 🎨 Design         | Figma                                          |
-
----
-
-# 🔥 WHAT I CAN BUILD
-
-<div align="center">
-
-```text
-🌐 Web Applications
-📱 Mobile Applications
-🛒 E-Commerce Platforms
-🛍️ Marketplace Systems
-🔐 Authentication Systems
-⚙️ REST APIs
-🗄️ Database Systems
-📊 Admin Dashboards
-☁️ Cloud Applications
-🎨 Responsive Interfaces
-🚀 Full-Stack Applications
-```
-
-</div>
-
----
-
-# 📂 PROJECT SHOWCASE
-
-<div align="center">
-
-<a href="https://github.com/himahsu55?tab=repositories">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=himahsu55&repo=himahsu55&theme=react&hide_border=true&border_radius=16" />
-
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/himahsu55?tab=repositories">
-
-<img src="https://img.shields.io/badge/🔥%20EXPLORE%20MY%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-
-</a>
-
-</div>
-
----
-
-# 🧪 ENGINEERING MINDSET
-
-<div align="center">
-
-| Principle     | Meaning                             |
-| :------------ | :---------------------------------- |
-| 🧠 Understand | Understand the problem first        |
-| 🎨 Simplify   | Keep the experience simple          |
-| 🧩 Structure  | Build maintainable systems          |
-| 🔐 Secure     | Think about security                |
-| ⚡ Optimize    | Improve performance                 |
-| 🧪 Test       | Don't trust untested code           |
-| 🚀 Ship       | Get the product into the real world |
-| 📈 Iterate    | Improve continuously                |
-
-</div>
-
----
-
-# 📊 GITHUB COMMAND CENTER
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himahsu55&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&border_radius=16" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=himahsu55&theme=react&hide_border=true&border_radius=16" />
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himahsu55&layout=compact&langs_count=8&theme=react&hide_border=true&border_radius=16" />
-
-</div>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himahsu55&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="96%" />
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/himahsu55/himahsu55/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS & TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=himahsu55&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
-
-</div>
-
----
-
-# 🎯 2026 MISSION
-
-<div align="center">
-
-```text
-████████████████████████████████████████████  🚀 Build Real Products
-
-████████████████████████████████████████░░░░  ⚛️ Level Up Full-Stack Skills
-
-██████████████████████████████████████░░░░░░  🐳 Master Docker
-
-████████████████████████████████████░░░░░░░░  ☁️ Learn AWS
-
-██████████████████████████████████░░░░░░░░░░  ⚡ Master Supabase
-
-████████████████████████████████░░░░░░░░░░░░  🏗️ Learn System Design
-
-██████████████████████████████░░░░░░░░░░░░░░  🚀 Launch Products
-```
-
-</div>
-
----
-
-# 🌱 CURRENTLY LEARNING
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,aws,supabase,typescript" />
-
-<br/><br/>
-
-### 🐳 Docker
-
-### ☁️ AWS
-
-### ⚡ Supabase
-
-### 🟦 Advanced TypeScript
-
-### 🏗️ Scalable Architecture
-
-### 🔐 Application Security
-
-</div>
-
----
-
-# 💭 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-## THINK 🧠
-
-> Understand the problem.
-
-⬇️
-
-## DESIGN 🎨
-
-> Make it simple.
-
-⬇️
-
-## BUILD 💻
-
-> Write clean code.
-
-⬇️
-
-## TEST 🧪
-
-> Break it before users do.
-
-⬇️
-
-## SHIP 🚀
-
-> Put it into the real world.
-
-⬇️
-
-## IMPROVE 📈
-
-> Version 2 should be better than Version 1.
-
-</div>
-
----
-
-# ⚡ MY DEVELOPER LOOP
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IDEA-💡-00F7FF?style=for-the-badge" />
-
-→
-
-<img src="https://img.shields.io/badge/DESIGN-🎨-7F00FF?style=for-the-badge" />
-
-→
-
-<img src="https://img.shields.io/badge/CODE-💻-FF6B00?style=for-the-badge" />
-
-→
-
-<img src="https://img.shields.io/badge/TEST-🧪-00C853?style=for-the-badge" />
-
-→
-
-<img src="https://img.shields.io/badge/SHIP-🚀-FFD700?style=for-the-badge" />
-
-→
-
-<img src="https://img.shields.io/badge/REPEAT-♾️-FF00AA?style=for-the-badge" />
-
-</div>
-
----
-
-# 🧠 WHEN I'M NOT CODING
-
-<div align="center">
-
-```text
-💡 Exploring new ideas
-🔧 Building side projects
-🎨 Improving UI/UX
-📚 Learning new technologies
-🚀 Thinking about products
-🧠 Solving problems
-```
-
-</div>
-
----
-
-# 📚 WHAT I WANT TO MASTER
-
-<div align="center">
-
-### Level Up Roadmap
-
-```text
-Frontend
-████████████████████████████████████████  Advanced
-
-Backend
-██████████████████████████████████████░░  Advanced
-
-Database
-████████████████████████████████████░░░░  Growing
-
-Cloud
-██████████████████████████████░░░░░░░░░░  Learning
-
-DevOps
-████████████████████████████░░░░░░░░░░░░  Learning
-
-System Design
-████████████████████████░░░░░░░░░░░░░░░░  Learning
-```
-
-</div>
-
----
-
-# 🌐 LET'S CONNECT
+<!-- ========================= CONNECT ========================= -->
 
 <div align="center">
 
 <a href="mailto:himanshuvishwakarma418@gmail.com">
-
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/himanshu-vishwakarma-ec-skjp-dte-072/" target="_blank">
-
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/himahsu55" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= TECH STACK ========================= -->
+
+<div align="center">
+
+<h2>⚒️ Languages • Frameworks • Tools ⚒️</h2>
+
+<br/>
+
+<h3>💻 Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" />
+
+<br/><br/>
+
+<h3>⚛️ Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui" />
+
+<br/><br/>
+
+<h3>⚙️ Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+
+<br/><br/>
+
+<h3>🗄️ Database & Backend Services</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+
+<br/><br/>
+
+<h3>☁️ Cloud & DevOps</h3>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+<br/><br/>
+
+<h3>🎨 Design & Development</h3>
+
+<img src="https://skillicons.dev/icons?i=figma,vscode" />
+
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= WHAT I BUILD ========================= -->
+
+<div align="center">
+
+<h2>🚀 What I Build</h2>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Web%20Applications-⚡-00F7FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Mobile%20Applications-📱-7F00FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/REST%20APIs-⚙️-FF6B00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/E--Commerce-🛒-00C853?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Marketplace-🚀-FFD700?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Admin%20Dashboards-📊-00F7FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Authentication-🔐-7F00FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cloud%20Applications-☁️-FF6B00?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= CURRENT PROJECT ========================= -->
+
+<div align="center">
+
+<h2>🔥 Currently Building</h2>
+
+<br/>
+
+<h1>🛒 Marketplace Platform</h1>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge" />
+
+<br/><br/>
+
+<p>
+A modern marketplace platform focused on
+<br/>
+<strong>performance • scalability • security • beautiful UI/UX</strong>
+</p>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,docker,aws" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+👤 Authentication
+        ↓
+🛍️ Product Discovery
+        ↓
+🔎 Search & Filters
+        ↓
+🛒 Shopping Cart
+        ↓
+💳 Checkout
+        ↓
+📦 Orders
+        ↓
+⭐ Reviews
+        ↓
+📊 Analytics
+```
+
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= PROJECTS ========================= -->
+
+<div align="center">
+
+<h2>🚀 Featured Projects</h2>
+
+<br/>
+
+<a href="https://github.com/himahsu55?tab=repositories">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=himahsu55&repo=himahsu55&theme=react&hide_border=true&border_radius=12" />
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/himahsu55?tab=repositories">
+
+<img src="https://img.shields.io/badge/🔥%20VIEW%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </a>
 
 </div>
 
----
+<br/>
 
-# ☕ SUPPORT MY WORK
+<hr/>
+
+<!-- ========================= CONTRIBUTIONS ========================= -->
 
 <div align="center">
 
-### ❤️ Like my work?
+<h2>🐍 My Contributions</h2>
 
-### You can support my journey.
+<br/>
+
+<img
+alt="Himesh Sharma GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/himahsu55/himahsu55/output/github-contribution-grid-snake.svg"
+/>
+
+<br/><br/>
+
+</div>
+
+<hr/>
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+<div align="center">
+
+<h2>⚡ GitHub Stats</h2>
+
+<br/>
+
+<img
+width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=himahsu55&theme=react&hide_border=true&border_radius=12"
+alt="GitHub Streak"
+/>
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=himahsu55&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true&rank_icon=github&border_radius=12"
+alt="GitHub Stats"
+/>
+
+<br/><br/>
+
+<img
+width="42%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=himahsu55&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+alt="Top Languages"
+/>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+<div align="center">
+
+<h2>📈 GitHub Activity</h2>
+
+<br/>
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=himahsu55&theme=react-dark&hide_border=true&area=true"
+alt="GitHub Activity Graph"
+/>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= TROPHIES ========================= -->
+
+<div align="center">
+
+<h2>🏆 GitHub Trophies</h2>
+
+<br/>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=himahsu55&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+alt="GitHub Trophies"
+/>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= DEVELOPER ROADMAP ========================= -->
+
+<div align="center">
+
+<h2>🎯 Developer Roadmap</h2>
+
+<br/>
+
+<table>
+
+<tr>
+<th>Area</th>
+<th>Focus</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>⚛️ Frontend</td>
+<td>React • Next.js • UI/UX</td>
+<td>🔥 Building</td>
+</tr>
+
+<tr>
+<td>⚙️ Backend</td>
+<td>Node.js • Express • APIs</td>
+<td>🔥 Building</td>
+</tr>
+
+<tr>
+<td>🗄️ Database</td>
+<td>MongoDB • Firebase • Supabase</td>
+<td>🔥 Building</td>
+</tr>
+
+<tr>
+<td>🐳 DevOps</td>
+<td>Docker • Git • CI/CD</td>
+<td>🌱 Learning</td>
+</tr>
+
+<tr>
+<td>☁️ Cloud</td>
+<td>AWS</td>
+<td>🌱 Learning</td>
+</tr>
+
+<tr>
+<td>🏗️ Architecture</td>
+<td>Scalable Systems</td>
+<td>🎯 Improving</td>
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= PHILOSOPHY ========================= -->
+
+<div align="center">
+
+<h2>🧠 My Developer Philosophy</h2>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Understand+the+Problem+🧠;Keep+The+Design+Simple+🎨;Write+Clean+Code+💻;Test+Everything+🧪;Ship+Fast+🚀;Keep+Improving+📈" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+# 💡 THINK
+
+### Understand the problem.
+
+⬇️
+
+# 🎨 DESIGN
+
+### Make it simple.
+
+⬇️
+
+# 💻 BUILD
+
+### Write clean code.
+
+⬇️
+
+# 🧪 TEST
+
+### Break it before users do.
+
+⬇️
+
+# 🚀 SHIP
+
+### Put it into the real world.
+
+⬇️
+
+# 📈 IMPROVE
+
+### Make version 2 better.
+
+</div>
+
+---
+
+<!-- ========================= FUN FACT ========================= -->
+
+<div align="center">
+
+<h2>⚡ Fun Fact</h2>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=50&lines=Sometimes+the+bug+is+the+feature+😂;Sometimes+the+feature+becomes+the+bug+😅;But+we+keep+building+🚀" />
+
+<br/><br/>
+
+💡 Game of Thrones' Night's Watch cloaks were made from IKEA rugs.
+
+</div>
+
+<br/>
+
+<hr/>
+
+<!-- ========================= SUPPORT ========================= -->
+
+<div align="center">
+
+<h2>☕ Support My Work</h2>
+
+<br/>
+
+<p>
+If you like my projects and want to support my work ❤️
+</p>
 
 <br/>
 
 <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
 
-<img height="64" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" />
+<img
+height="64"
+src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"
+alt="Support me on Ko-fi"
+/>
 
 </a>
 
 </div>
 
----
+<br/>
 
-# ⚡ RANDOM DEVELOPER FACT
+<hr/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Sometimes+the+bug+is+the+feature+%F0%9F%98%82;Sometimes+the+feature+becomes+the+bug+%F0%9F%98%85;But+we+keep+building.+%F0%9F%9A%80" />
-
-</div>
-
----
-
-# 🧑‍🚀 DEVELOPER STATUS
+<!-- ========================= FINAL ========================= -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20%F0%9F%9A%80-00F7FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/MODE-CREATING%20%F0%9F%94%A5-7F00FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-FF6B00?style=for-the-badge" />
-
-</div>
-
----
-
-# 💙 FINAL MESSAGE
-
-<div align="center">
-
-# Thanks for visiting my GitHub! 👋
-
-### I'm Himesh Sharma.
-
-### I don't just write code.
-
-# I BUILD IDEAS. 🚀
+<h2>🌟 Thanks For Visiting My Profile!</h2>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=50&lines=Code+%7C+Create+%7C+Innovate+%7C+Repeat;Build+Something+Amazing+%F0%9F%9A%80;Never+Stop+Learning+%E2%9A%A1;Keep+Building+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=I'm+Himesh+Sharma+👋;I+Build+Ideas+Into+Reality+🚀;Let's+Create+Something+Amazing+🔥" />
 
 <br/><br/>
 
-<a href="https://github.com/himahsu55">
+<a href="https://github.com/himahsu55?tab=repositories">
 
-<img src="https://img.shields.io/badge/⭐%20STAR%20MY%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/⭐%20STAR%20MY%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 
 </a>
 
@@ -679,6 +547,16 @@ System Design
 
 <br/>
 
-<!-- ========================== FOOTER ====================== -->
+<!-- ========================= FOOTER ========================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer" />
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"
+/>
+
+```
+
+**इस बार मैंने तुम्हारे original design को ही रखा है**, बस उसमें hierarchy और sections बढ़ाए हैं—मतलब GitHub पर यह “template dump” की बजाय एक proper **full-vibe developer profile** जैसा दिखेगा।
+
+एक चीज़ बाद में बदलना सबसे ज्यादा फायदा देगा: `Featured Projects` में अभी `himahsu55` लगा है। वहाँ तुम्हारे **असल 3–4 best repositories** डालने पर profile बहुत ज्यादा authentic और powerful लगेगा।
+```
